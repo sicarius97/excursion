@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+.textonly {
+    color: white;
+    text-align: center;
+}
+
+video {
+    display: block;
+    margin: auto;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+a {
+    color: aquamarine;
+}
+
+.center {
+    text-align: center;
+}
